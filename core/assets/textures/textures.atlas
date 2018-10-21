@@ -1,0 +1,90 @@
+
+textures.png
+size: 64,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+eating
+  rotate: false
+  xy: 2, 272
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+en0
+  rotate: false
+  xy: 2, 138
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+enemy
+  rotate: false
+  xy: 2, 338
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+friend
+  rotate: false
+  xy: 2, 206
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+happy
+  rotate: false
+  xy: 2, 404
+  size: 32, 96
+  orig: 32, 96
+  offset: 0, 0
+  index: -1
+hurt
+  rotate: false
+  xy: 2, 502
+  size: 32, 96
+  orig: 32, 96
+  offset: 0, 0
+  index: -1
+moon
+  rotate: false
+  xy: 2, 600
+  size: 32, 384
+  orig: 32, 384
+  offset: 0, 0
+  index: -1
+pl1
+  rotate: false
+  xy: 2, 104
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+pl2
+  rotate: false
+  xy: 2, 70
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+pl3
+  rotate: false
+  xy: 2, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+pl4
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+sun
+  rotate: false
+  xy: 2, 172
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
